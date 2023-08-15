@@ -11,7 +11,7 @@ function convertArrayToList(arr) {
     if (acc) {
       const node = new ListNode(cur);
       node.next = acc;
-      return node;
+      return node;//
     }const { assert } = require('chai');
 const { testOptional, ListNode } = require('../extensions/index.js');
 const { removeKFromList } = require('../src/remove-from-list.js');
