@@ -3,7 +3,7 @@ const { testOptional, ListNode } = require('../extensions/index.js');
 const { removeKFromList } = require('../src/remove-from-list.js');
 
 it.optional = testOptional;
-
+asdfasd
 Object.freeze(assert);
 
 function convertArrayToList(arr) {
