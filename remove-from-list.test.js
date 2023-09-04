@@ -7,11 +7,11 @@ asdf
       df23123123sdfasdfssadfasdfsfasfasdfasdfasdfasdasdfasdfasdvzxcvzxcvasdfasdfaszxcvzxcvvzxcvsadfasdfasadfasdfadfadsfasd////const { assert } = require('chai');
 const { testOptional, ListNode } = require('../extensions/index.js');
 const { removeKFromList } = require('../src/remove-from-list.js');
-
+asd
 it.optional = testOptional;
-asdfasd
+asdfasdasd
 Object.freeze(assert);
-asdfasdfas
+asdfasdfasasd
 function convertArrayToList(arr) {
   return arr.reverse().reduce((acc, cur) => {
     if (acc) {
