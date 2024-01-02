@@ -1,8 +1,4 @@
-asdfasdfssadfasdfs
-asdf
-  as
-    df
-  asdf
+
     sa
       df23123123sdfasdfssadfasdfsfasfasdfasdfasdfasdasdfasdfasdvzxcvzxcvasdfasdfaszxcvzxcvvzxcvsadfasdfasadfasdfadfadsfasd////const { assert } = require('chai');
 const { testOptional, ListNode } = require('../extensions/index.js');
